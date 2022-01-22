@@ -1,0 +1,2 @@
+# LeftTrianglenumber.java
+UAS Alpro
